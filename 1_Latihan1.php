@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Belajar PHP">
     <meta name="keywords" content="233307005">
-    <meta name="author" content="Angger">
+    <meta name="author" content="Dimas">
 </head>
 
 <body>

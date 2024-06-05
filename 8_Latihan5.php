@@ -7,7 +7,7 @@
     <link rel="icon" type="img/png" href="#" sizes="16x16" />
     <meta name="description" content="Belajar PHP">
     <meta name="keywords" content="233307049">
-    <meta name="author" content="Angger Rahmadi">
+    <meta name="author" content="Dimas Muflih">
 </head>
 <body>
     <?php

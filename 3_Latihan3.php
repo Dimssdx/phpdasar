@@ -39,7 +39,7 @@
     echo ("<br>");
 
     //Conditional assignment operators
-    $user = "Angger";
+    $user = "Dimas";
     // <kondisi> ? <nilai_jika_kondisi_true> : <nilai_jika_kondisi_false>
     $status = (empty($user)) ? "Kosong" : "ada isi";
     echo $status . "<br>";
